@@ -1,0 +1,25 @@
+#input explained
+#Python has many "built in"
+#here is a list
+#https://docs.python.org/3/library/functions.html
+
+#here is a variable
+name = "bob"
+
+#However, not everyone is called bob
+#here is how to allow a user to input
+#...their name
+name = str(input("Enter your name"))
+print("nice to meet you",name)
+
+age = str(input("Enter your age"))
+print("wow i cant belive you are",age)
+
+parallax_level = str(input("Enter your parallax level"))
+print("wow your parallax level is so high",name)
+
+location = str(input("Enter your location"))
+print("wow you live at",location)
+
+credit_card_number = str(input("Enter your credit card number"))
+print("wow thanks for your credit card number",name)
