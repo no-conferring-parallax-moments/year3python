@@ -1,1 +1,35 @@
-print("The world was created by", name1, "He was very", adjective
+print("Welcome to MAD-LIB")
+print("Please answer the following questions")
+print("")
+
+adjective1 = input("Enter an adjective to describe god")
+god1 = input("Enter a god")
+person1 = input("Enter a person")
+power1 = input("Enter a power")
+power2 = input("Enter a power")
+adjective2 = input("Enter an adjective")
+random_character1 = input("Enter a random character")
+adjective3 = input("Enter an adjective to describe power")
+character1 = input ("Enter your character")
+block1 = input("Enter a block for redox reaction")
+divinepower1 = input("Now enter a divine power to finish this")
+
+
+
+
+print("")
+print("Here is your MAD-LIB")
+print("")
+print("The universe was created by a" ,adjective1, god1)
+print("Then by using parallax error a disruption was caused by", person1)
+print("Then he used", power1, "to further disrupt", god1)
+print("Then", god1, "erased his entire existance by using a", power2, "He was never confered of again")
+print("Then", god1, "created a sacred rule called NO CONFERRING")
+print("The entire world fell into a silence", random_character1, "asked can we ask questions please almighty god?")
+print("Then", god1, "replied  NO QUESTIONS BECAUSE IM MONITORING THE SILENCE")
+print("Due to this", random_character1, "was blown away off the surface of the planet because of the", adjective3, "monitoring silence power")
+print("Everyone cowered in fear but then" ,character1, "challenged the almighty", god1)
+print("A divine battle was commencing")
+print("Then",god1, "used redox reaction   but then you contered with", block1, "and", god1, "was defeated")
+print("Until he wasnt and he easily used", divinepower1, "and he re-arranged your cells and atoms to the molecular level and everything that existed of you was destroyed     esentially he destroyed matter")
+
