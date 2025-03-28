@@ -13,6 +13,7 @@ adjective3 = input("Enter an adjective to describe power")
 character1 = input ("Enter your character")
 block1 = input("Enter a block for redox reaction")
 divinepower1 = input("Now enter a divine power to finish this")
+son1 = input("Enter the name of your son")
 
 
 
@@ -32,4 +33,12 @@ print("Everyone cowered in fear but then" ,character1, "challenged the almighty"
 print("A divine battle was commencing")
 print("Then",god1, "used redox reaction   but then you contered with", block1, "and", god1, "was defeated")
 print("Until he wasnt and he easily used", divinepower1, "and he re-arranged your cells and atoms to the molecular level and everything that existed of you was destroyed     esentially he destroyed matter")
+print("Your legacy wont be forgotten as you are the longest to survive against", god1)
+
+print("5000 years later...")
+print("ENTER SON OF",character1,"...",son1)
+print("The general will speak with you now",son1)
+print("You are next in line for your fathers heritage",son1)
+print("My name is bombardino crocodilo")
+
 
