@@ -1,0 +1,8 @@
+ticket = str(input("Do you have a ticket, y or n?"))
+age = int(input("How old are you?"))
+
+if ticket == "y" and age >= 15:
+  print("Welcome and find your seat")
+  
+elif ticket == "n" or age <15:
+  print("You cant see this movie")
