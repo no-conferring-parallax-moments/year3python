@@ -1,0 +1,11 @@
+username = ""
+
+while username != "parallax clunk":
+  username = str(input("Enter username: "))
+
+
+
+print("accepted ")
+
+
+
